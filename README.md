@@ -10,4 +10,3 @@
   <h3 align = "center"> A passionate Data Enthusiast working on projects involving Analytics and AI/ML Development</h3>
 
 <br/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashwinpradeep01)](https://github.com/ashwinpradeep01/github-readme-stats)
