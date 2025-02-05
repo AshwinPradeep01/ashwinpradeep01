@@ -7,9 +7,9 @@ Data Analyst/Engineer
 Its been 5 beautiful years since I had started coding in C++. That was the programming foundation which led me here. Eventually mastering HTML, and CSS, Python was an important tool for machine learning and AI, while
 
 *   🌍  I'm based in Coimbatore, TN, India
-*   ✉️  You can contact me at [ashwin01pradeep@gmail.com](mailto:ashwin01pradeep@gmail.com)
-*   🧠  I'm learning MLOps, Geospatial Analysis, DSA
 *   🤝  I'm open to collaborating on ML/AI projects
+*   🧠  Exploring Geospatial Analysis, DSA, MLOps and AI
+*   ✉️  Feel free to contact me at [ashwin01pradeep@gmail.com](mailto:ashwin01pradeep@gmail.com)
   
   ### Skills 
 <p align="left">
