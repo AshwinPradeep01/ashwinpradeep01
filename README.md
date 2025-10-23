@@ -8,7 +8,7 @@ Its been 5 beautiful years since I had started coding in C++. That was the progr
 
 *   🌍  I'm based in Coimbatore, TN, India
 *   🤝  I'm open to collaborating on ML/AI projects
-*   🧠  Exploring Geospatial Analysis, DSA, MLOps and AI
+*   🧠  Exploring Geospatial Analysis, MLOps and AI
 *   ✉️  Feel free to contact me at [ashwin01pradeep@gmail.com](mailto:ashwin01pradeep@gmail.com)
                     
   ### Connect/Collaborate with me on:
