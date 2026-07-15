@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Ashwin
 ======================================================================================================================================
 
-Data Analyst/Engineer
+Analytics Engineer
 ---------------------
 
 Its been 5 beautiful years since I had started coding in C++. That was the programming foundation which led me here. Eventually mastering HTML, and CSS, Python was an important tool for machine learning and AI, while
