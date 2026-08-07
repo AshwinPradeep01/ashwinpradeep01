@@ -85,10 +85,4 @@ End-to-end Spark pipeline ingesting 16 years of IPL data from S3, transforming a
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshwinPradeep01&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinPradeep01&layout=compact&hide_border=true" height="165"/>
-</p>
-
 <p align="center"><i>Open to Data Engineering opportunities — let's connect.</i></p>
