@@ -11,7 +11,7 @@
   📍 Bengaluru, India &nbsp;|&nbsp;
   ✉️ <a href="mailto:ashwinpradeep.k@proton.me">ashwinpradeep.k@proton.me</a> &nbsp;|&nbsp;
   🔗 <a href="https://www.linkedin.com/in/ashwinpradeep01/">LinkedIn</a> &nbsp;|&nbsp;
-  🌐 Portfolio
+  🌐 <a href="https://my-portfolio-60o.pages.dev/">Portfolio</a>
 </p>
 
 ---
